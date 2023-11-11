@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-## About Me
+## Andrey Detkov
 
-I am grauate ...
+I am MFTI graDuate ...
 
 ## Research Interests
 
