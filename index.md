@@ -4,7 +4,7 @@ layout: homepage
 
 ## Andrey Detkov
 
-I am MFTI graDuate ...
+I am MFTI graduate ...
 
 ## Research Interests
 
@@ -19,6 +19,7 @@ I am MFTI graDuate ...
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 ## NO-News  is a BAD-NEWS
+- sometimes it is another was around.
 
 {% include_relative _includes/publications.md %}
 
