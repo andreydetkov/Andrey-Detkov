@@ -4,7 +4,7 @@ layout: homepage
 
 ## Andrey Detkov
 
-I am MFTI graduate ...[^1]
+I am a MFTI graduate ...[^1]
 
 ## Research Interests
 - **Computer programming:** computer algorithms and optimization
