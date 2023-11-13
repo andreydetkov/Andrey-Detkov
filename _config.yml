@@ -1,5 +1,5 @@
 # Basic Information 
-title: Andrey Detkov on Github
+title: Andrey Detkov 
 position: Github profile
 affiliation: IBM-dba, Canada
 email: andrey.detkov@gmail.com
@@ -44,7 +44,6 @@ google_analytics: UA-111540567-4
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: andreydetkov/minima
-# remote_theme: yaoyao-liu/minimal-light
 
 # The following files will be removed from the generated website.
 exclude:

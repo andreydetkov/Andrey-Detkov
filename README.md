@@ -1,3 +1,8 @@
+
+Alex:Aexander.d.detkov@gmail.com  233alex233
+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
+
+
 # The Minimal Light Theme
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
@@ -35,7 +40,7 @@ A template for Max Planck Institute for Informatics is available here: [[link](h
 ├── _sass
 |   ├── minimal-light.scss                    #  this file will be compiled into a CSS file to control the style of the page              
 |   └── minimal-light-no-dark-mode.scss       #  this file is similar to minimal-light.scss with the dark mode disabled
-├── assets                                    #  some files
+Ales:├── assets                                    #  some files
 ├── html_source_file                          #  compiled HTML files
 ├── .gitignore                                #  this file specifies intentionally untracked files that Git should ignore
 ├── CNAME                                     #  the custom domain, will be used by GitHub page sevice
