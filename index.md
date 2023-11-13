@@ -4,7 +4,7 @@ layout: homepage
 
 ## Andrey Detkov
 
-I am MFTI graduate ...
+I am MFTI graduate ...[^1]
 
 ## Research Interests
 
@@ -19,3 +19,6 @@ I am MFTI graduate ...
 sometimes it is another was around.
 
 {% include_relative _includes/services.md %}
+
+
+[^1]: it was a log time ago.
