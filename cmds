@@ -8,3 +8,8 @@
   133  bundle install
   134  bundle exec jekyll serve
   135  history |tail > cmds
+git branch
+git push origin
+  754  git remote remove myweb 
+  756  git remote add myweb https://andreydetkov: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@github.com/andreydetkov/andreydetkov.github.io
+  759  git push -u -f  myweb

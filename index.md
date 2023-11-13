@@ -7,8 +7,7 @@ layout: homepage
 I am MFTI graduate ...[^1]
 
 ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
+- **Computer programming:** computer algorithms and optimization
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
@@ -16,9 +15,11 @@ I am MFTI graduate ...[^1]
 - **[2019]** put this website 
 
 ## NO-News  is a BAD-NEWS
-sometimes it is another was around.
+sometimes, it is another way around.
 
 {% include_relative _includes/services.md %}
 
 
-[^1]: it was a log time ago.
+
+### Footnotes:
+[^1]: _it was a log time ago.
